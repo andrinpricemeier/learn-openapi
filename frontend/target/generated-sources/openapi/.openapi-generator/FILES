@@ -1,0 +1,14 @@
+.gitignore
+.openapi-generator-ignore
+README.md
+api.module.ts
+backend/api.ts
+backend/apples.service.ts
+backend/fruit.ts
+backend/models.ts
+configuration.ts
+encoder.ts
+git_push.sh
+index.ts
+param.ts
+variables.ts
